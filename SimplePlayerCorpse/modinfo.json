@@ -1,7 +1,7 @@
 {
     "$schema": "https://moddbcdn.vintagestory.at/schema/modinfo.latest.json",
     "type": "Code",
-    "modid": "amlSimplePlayerCorpse",
+    "modid": "amlsimpleplayercorpse",
     "name": "Simple Player Corpse",
     "authors": [
         "AllManyLots"
