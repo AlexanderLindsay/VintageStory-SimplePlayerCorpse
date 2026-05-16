@@ -1,13 +1,13 @@
 ﻿using Vintagestory.API.Common;
-using Aml.SimplePlayerCorpse.Entities;
+using SimplePlayerCorpse.Entities;
 using System;
 
-namespace Aml.SimplePlayerCorpse;
+namespace SimplePlayerCorpse;
 
 public class Core : ModSystem
 {
     public static Config Config { get; private set; } = new();
-    private const string ConfigFileName = "aml.simpleplayercorpse.json";
+    private const string ConfigFileName = "SimplePlayerCorpse.json";
 
     // Called on server and client
     // Useful for registering block/entity classes on both sides

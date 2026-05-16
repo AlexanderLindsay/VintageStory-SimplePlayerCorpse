@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 using System.Text;
-using Aml.SimplePlayerCorpse.Systems;
+using SimplePlayerCorpse.Systems;
 using Vintagestory.API.Client;
 using Vintagestory.API.Common;
 using Vintagestory.API.Common.Entities;
@@ -9,7 +9,7 @@ using Vintagestory.API.Config;
 using Vintagestory.API.MathTools;
 using Vintagestory.API.Server;
 
-namespace Aml.SimplePlayerCorpse.Entities;
+namespace SimplePlayerCorpse.Entities;
 
 public class EntityPlayerCorpse : EntityAgent
 {

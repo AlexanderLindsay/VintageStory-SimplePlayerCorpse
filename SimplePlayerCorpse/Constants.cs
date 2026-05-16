@@ -1,11 +1,11 @@
 using System.Collections.Immutable;
 using Vintagestory.API.Config;
 
-namespace Aml.SimplePlayerCorpse;
+namespace SimplePlayerCorpse;
 
 public static class Constants
 {
-    public static string ModId => "aml.simpleplayercorpse";
+    public static string ModId => "amlsimpleplayercorpse";
 
     public static ImmutableList<string> InventoryTypes => [
         GlobalConstants.hotBarInvClassName,

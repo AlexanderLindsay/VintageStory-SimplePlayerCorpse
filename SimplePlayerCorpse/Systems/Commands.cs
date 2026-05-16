@@ -2,13 +2,13 @@ using System;
 using System.IO;
 using System.Linq;
 using System.Text;
-using Aml.SimplePlayerCorpse.Entities;
+using SimplePlayerCorpse.Entities;
 using Vintagestory.API.Common;
 using Vintagestory.API.Config;
 using Vintagestory.API.MathTools;
 using Vintagestory.API.Server;
 
-namespace Aml.SimplePlayerCorpse.Systems;
+namespace SimplePlayerCorpse.Systems;
 
 public class Commands : ModSystem
 {

@@ -1,6 +1,6 @@
 using Vintagestory.API.MathTools;
 
-namespace Aml.SimplePlayerCorpse;
+namespace SimplePlayerCorpse;
 
 public static class Utils {
 
