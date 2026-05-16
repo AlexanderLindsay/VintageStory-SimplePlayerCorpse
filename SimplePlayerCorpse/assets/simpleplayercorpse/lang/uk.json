@@ -1,0 +1,6 @@
+{
+    "item-creature-playercorpse": "Тіло гравця",
+    "blockhelp-collect": "Підібрати",
+    "game:ingameerror-not-corpse-owner": "Це не ваше тіло!",
+    "corpse-created(date={0})": "Створено {0}"
+}

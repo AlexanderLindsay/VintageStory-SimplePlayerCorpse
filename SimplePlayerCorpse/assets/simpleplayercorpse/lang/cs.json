@@ -1,0 +1,6 @@
+{
+    "item-creature-playercorpse": "Tělo hráče",
+    "blockhelp-collect": "Sebrat",
+    "game:ingameerror-not-corpse-owner": "Tohle není tvoje mrtvola!",
+    "corpse-created(date={0})": "Vytvořeno {0}"
+}

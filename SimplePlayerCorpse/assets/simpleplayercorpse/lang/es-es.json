@@ -1,0 +1,6 @@
+{
+    "item-creature-playercorpse": "Cadáver del jugador",
+    "blockhelp-collect": "Recoger",
+    "game:ingameerror-not-corpse-owner": "¡Este no es tu cadáver!",
+    "corpse-created(date={0})": "Creado {0}"
+}

@@ -1,0 +1,6 @@
+{
+    "item-creature-playercorpse": "Mŕtvola hráča",
+    "blockhelp-collect": "Pozbieraj",
+    "game:ingameerror-not-corpse-owner": "Toto nie je tvoja mŕtvola!",
+    "corpse-created(date={0})": "Vytvoril {0}"
+}

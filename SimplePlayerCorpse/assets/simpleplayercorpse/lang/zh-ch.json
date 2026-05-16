@@ -1,0 +1,6 @@
+{
+    "item-creature-playercorpse": "玩家尸体",
+    "blockhelp-collect": "取回",
+    "game:ingameerror-not-corpse-owner": "这不是你的尸体！",
+    "corpse-created(date={0})": "已创建 {0}"
+}

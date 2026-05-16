@@ -1,0 +1,6 @@
+{
+    "item-creature-playercorpse": "Труп игрока",
+    "blockhelp-collect": "Собрать",
+    "game:ingameerror-not-corpse-owner": "Это не ваш труп!",
+    "corpse-created(date={0})": "Создано: {0}"
+}

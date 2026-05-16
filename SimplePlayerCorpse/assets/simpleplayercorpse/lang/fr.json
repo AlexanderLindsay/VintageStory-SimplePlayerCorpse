@@ -1,0 +1,6 @@
+{
+    "item-creature-playercorpse": "Cadavre de joueur",
+    "blockhelp-collect": "Récupérer",
+    "game:ingameerror-not-corpse-owner": "Ce n'est pas votre corps !",
+    "corpse-created(date={0})": "Date du décès : {0}"
+}

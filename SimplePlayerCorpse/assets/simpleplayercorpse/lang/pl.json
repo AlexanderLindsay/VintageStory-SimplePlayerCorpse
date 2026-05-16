@@ -1,0 +1,6 @@
+{
+    "item-creature-playercorpse": "Zwłoki Gracza",
+    "blockhelp-collect": "Zbierz",
+    "game:ingameerror-not-corpse-owner": "To nie są twoje zwłoki!",
+    "corpse-created(date={0})": "Utworzono {0}"
+}

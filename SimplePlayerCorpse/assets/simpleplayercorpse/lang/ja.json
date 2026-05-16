@@ -1,0 +1,6 @@
+{
+    "item-creature-playercorpse": "Player corpse(兵どもが夢の跡)",
+    "blockhelp-collect": "回収",
+    "game:ingameerror-not-corpse-owner": "これはあなたのお墓ではありません！",
+    "corpse-created(date={0})": "{0}に作成されました。"
+}
