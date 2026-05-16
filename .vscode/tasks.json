@@ -9,7 +9,7 @@
                 "build",
                 "-c",
                 "Debug",
-                "${workspaceFolder}/PlayerCorpseRemake/PlayerCorpseRemake.csproj"
+                "${workspaceFolder}/SimplePlayerCorpse/SimplePlayerCorpse.csproj"
             ],
             "problemMatcher": "$msCompile"
         },

@@ -26,7 +26,7 @@ public static class Program
 
 public class BuildContext : FrostingContext
 {
-    public const string ProjectName = "PlayerCorpseRemake";
+    public const string ProjectName = "SimplePlayerCorpse";
     public string BuildConfiguration { get; }
     public string Version { get; }
     public string Name { get; }
